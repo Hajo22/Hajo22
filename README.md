@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @Hajo22 (Dávid) - 17 years student from Slovakia, who loves programming.
+- 👋 Hi, I’m @Hajo22 (Dávid) - 17 years old student from Slovakia, who loves programming.
 - 👀 I’m interested in Web programming and coding desktop applications.
 - 🌱 I’m currently learning web front-end position.
 - 📫 How to reach me - contact me by mail - davhaj.hajko@gmail.com
